@@ -44,5 +44,17 @@
     "slugify": "^1.6.5",
     "typescript": "4.9.5",
     "uuid": "^9.0.0"
-  }
+  },
+  "description": "Blog que criei para publicar sobre os conteúdos que estou estudando, afim de fixar melhor o conteúdo e me organizar melhor.",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dihgab/network.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dihgab/network/issues"
+  },
+  "homepage": "https://github.com/dihgab/network#readme"
 }
